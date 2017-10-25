@@ -1,0 +1,20 @@
+.img-circle {
+    width: 100%;
+}
+
+.img-circle {
+    border: 2px solid black;
+}
+
+div {
+    border: 2px solid red;
+}
+
+.container {
+    border: 2px solid blue;
+}
+
+.oblique {
+    font-style: oblique;
+
+}
