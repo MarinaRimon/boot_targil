@@ -1,12 +1,13 @@
-.img-circle {
-    width: 100%;
+
+
+.navbar-inverse .navbar-brand, .oblique {
+  font-size: 25px;
+  color: #2BE4C7;
+  font-style: italic;
+
 }
-
-
-.oblique {
-    font-style: oblique;
-   color: red;
-
+.navbar-inverse {
+  background-color: rgba(128, 128, 128, 0.20);
 }
 
 /*
