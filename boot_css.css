@@ -2,6 +2,14 @@
     width: 100%;
 }
 
+
+.oblique {
+    font-style: oblique;
+   color: red;
+
+}
+
+/*
 .img-circle {
     border: 2px solid black;
 }
@@ -18,3 +26,9 @@ div {
     font-style: oblique;
 
 }
+
+col-xs-12 - phone - 768px -width
+col-sm-8  - tablet
+col-md-6 - desctop
+col-lg-4 - large desctop
+*/
