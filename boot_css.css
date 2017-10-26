@@ -2,8 +2,9 @@
 
 .navbar-inverse .navbar-brand, .oblique {
   font-size: 25px;
-  color: #2BE4C7;
+  color: rgb(80, 218, 195);
   font-style: italic;
+  font-family: 'Sofia';
 
 }
 .navbar-inverse {
